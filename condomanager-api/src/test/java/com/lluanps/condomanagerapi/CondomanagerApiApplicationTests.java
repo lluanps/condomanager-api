@@ -1,4 +1,4 @@
-package com.lluanps.condomanager_api;
+package com.lluanps.condomanagerapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
